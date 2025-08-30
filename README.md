@@ -1,96 +1,77 @@
 # zubariaasma.github.io
 # Zubaria Asma
 
-**Ph.D. Candidate, Early Stage Researcher**  
-[University of Crete](https://www.uoc.gr), Heraklion, Greece  
-[Foundation for Research and Technology – Hellas (FORTH)](https://www.forth.gr)
-
-📧 [zubaria.asma@gmail.com](mailto:zubaria.asma@gmail.com)  
-📞 (+30) 6949720376  
-🌐 [GitHub](https://github.com/zubariaasma)
+**Ph.D. Candidate & Early Stage Researcher**  
+University of Crete | FORTH, Heraklion, Greece  
+[zubaria.asma@gmail.com](mailto:zubaria.asma@gmail.com)  
 
 ---
 
-## 👩‍💻 About Me
-
-I am currently pursuing a **Ph.D. at the University of Crete** and working as an **Early Stage Researcher at FORTH**.  
-My research focuses on:
-
-- **Provenance-aware data management systems for knowledge graphs (KGs)**  
-- **Efficient data structures for provenance information**  
-- **Query answering algorithms**  
-- **Data Science, Big Data, and Cloud Security**
-
-I have prior teaching and software development experience in Pakistan, where I taught Software Engineering courses and worked as a developer at TekExperts.  
+I am currently pursuing a **Ph.D.** at the University of Crete and working as an **Early Stage Researcher** at FORTH. My research focuses on **provenance-aware data management for knowledge graphs**, including designing efficient data structures and query answering algorithms. I also have a strong background in data science, big data, and cloud security.
 
 ---
 
-## 🎓 Education
+## Education
 
-- **Ph.D. in Software Engineering (Ongoing)**  
-  University of Crete, Heraklion, Greece  
+- **Ph.D. Candidate** in Software Engineering  
+  *University of Crete, Greece* (Ongoing)
 
-- **M.S. in Software Engineering (2017)**  
-  National University of Computer & Emerging Sciences (NUCES FAST), Islamabad, Pakistan  
-  *Thesis*: A Formal Approach for the Verification of AWS IAM Access Control Policies  
+- **M.S. in Software Engineering**, 2017  
+  *NUCES FAST, Islamabad, Pakistan*  
+  _Thesis_: A Formal Approach for the Verification of AWS IAM Access Control Policies
 
-- **B.S. in Software Engineering (2014)**  
-  International Islamic University, Islamabad, Pakistan  
-
----
-
-## 💼 Experience
-
-- **Early Stage Researcher**  
-  FORTH, Greece (2021 – Present)  
-  Research on provenance-aware data management systems for knowledge graphs.  
-
-- **Lecturer**  
-  University of Lahore, Islamabad (2019 – 2021)  
-  Taught courses: Design Analysis, Web Engineering, Java Software Development. Supervised final-year projects.  
-
-- **Lecturer**  
-  Barani Institute of Management Sciences, Rawalpindi (2018 – 2019)  
-  Taught: Software Engineering, Programming Fundamentals, OOP, Web Development.  
-
-- **Software Developer**  
-  TekExperts, Islamabad (2017 – 2018)  
-  Developed software features, performed integration testing, debugging, and documentation.  
+- **B.S. in Software Engineering**, 2014  
+  *International Islamic University, Islamabad, Pakistan*
 
 ---
 
-## 📚 Publications
+## Experience
 
-- **Zubaria Asma, Ehtesham Zahoor, Olivier Perrin**  
-  *A Formal Approach for the Verification of AWS IAM Access Control Policies*  
-  ESOCC 2017: pp. 59–74  
+- **Early Stage Researcher**, University of Crete / FORTH (2021–Present)  
+  Researching provenance-aware data management, knowledge graphs, and query answering techniques.
 
-- **M.S. Thesis**  
-  *A Formal Approach for the Verification of AWS IAM Access Control Policies*  
-  NUCES FAST, Islamabad (2017)  
+- **Lecturer**, University of Lahore, Islamabad (2019–2021)  
+  Taught Design & Analysis, Web Engineering, Java; supervised final-year student projects.
 
----
+- **Lecturer**, Barani Institute of Management Sciences, Rawalpindi (2018–2019)  
+  Taught Software Engineering, OOP, Web Design & Development; supervised capstone projects.
 
-## 🛠 Skills
-
-- **Programming**: C/C++, Java, Python, J2EE  
-- **Web Development**: HTML, CSS, JSF, PHP, Hibernate, Primefaces  
-- **Databases**: Relational database design & development  
-- **Tools**: LaTeX, Git, Linux  
+- **Software Developer**, TekExperts, Islamabad (2017–2018)  
+  Developed application features, testing, debugging, and documentation.
 
 ---
 
-## 🌍 Languages
+## Publications
+
+- **Asma, Z.**, Ehtesham Zahoor & Olivier Perrin.  
+  *A Formal Approach for the Verification of AWS IAM Access Control Policies*. ESOCC 2017, pp. 59–74.
+
+- **M.S. Thesis**, 2017  
+  *A Formal Approach for the Verification of AWS IAM Access Control Policies*, NUCES FAST, Islamabad.
+
+---
+
+## Skills
+
+- **Programming Languages**: C/C++, Java, Python, J2EE  
+- **Web Development**: HTML, CSS, JSF, PHP, Hibernate, PrimeFaces  
+- **Databases**: Schema design & development  
+- **Tools**: LaTeX, Git, Linux
+
+---
+
+## Languages
 
 - **English** – Fluent (C2)  
-- **Urdu** – Native  
+- **Urdu** – Native
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [zubaria.asma@gmail.com](mailto:zubaria.asma@gmail.com)  
-- Phone: (+30) 6949720376  
-- GitHub: [github.com/zubariaasma](https://github.com/zubariaasma)  
+- GitHub: [github.com/zubariaasma](https://github.com/zubariaasma)
 
 ---
+
+*Inspired by the format of Dr Abdul Ali Bangash’s academic page.*  

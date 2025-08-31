@@ -6,7 +6,7 @@ University of Crete | FORTH, Heraklion, Greece
 📧 [zubaria.asma@gmail.com](mailto:zubaria.asma@gmail.com)  
 🌐 [GitHub](https://github.com/zubariaasma)  
 🔗 [LinkedIn](https://www.linkedin.com/in/zubariaasma)  
-🧾 [ORCID](https://orcid.org/0000-0000-0000-0000)  
+🧾 [ORCID](https://orcid.org/0000-0002-9402-7487)  
 
 ---
 
@@ -46,11 +46,16 @@ I also have a strong background in **data science, big data, and cloud security*
 ---
 
 ## 📚 Publications
-- **Asma, Z.**, Ehtesham Zahoor & Olivier Perrin.  
-  *A Formal Approach for the Verification of AWS IAM Access Control Policies*. ESOCC 2017, pp. 59–74.  
+- **Asma, Z.**, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.  
+  *Conference Paper*, May 2024.  
+  DOI: [10.1145/3589334.3645557](https://doi.org/10.1145/3589334.3645557)  
 
-- **M.S. Thesis**, 2017  
-  *A Formal Approach for the Verification of AWS IAM Access Control Policies*, NUCES FAST, Islamabad.  
+- **Asma, Z.**, Ehtesham Zahoor & Olivier Perrin.  
+  *A Formal Approach for the Verification of AWS IAM Access Control Policies*.  
+  *Service-Oriented and Cloud Computing (ESOCC 2017)*, pp. 59–74.  
+  DOI: [10.1007/978-3-319-67262-5_5](http://dx.doi.org/10.1007/978-3-319-67262-5_5)  
+  ISBN: 978-3-319-67261-8 | 978-3-319-67262-5  
+  ISSN: 0302-9743 | 1611-3349  
 
 ---
 

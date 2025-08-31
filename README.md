@@ -68,5 +68,5 @@ I also have a strong background in **data science, big data, and cloud security*
 ---
 
 ## 🌍 Languages
-- **English** – Fluent (C2)  
+- **English** – Fluent  
 - **Urdu** – Native  

@@ -5,7 +5,7 @@ University of Crete | FORTH, Heraklion, Greece
 
 📧 [zubaria.asma@gmail.com](mailto:zubaria.asma@gmail.com)  
 🌐 [GitHub](https://github.com/zubariaasma)  
-🔗 [LinkedIn](https://www.linkedin.com/in/zubariaasma)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zubaria-asma-932b9030/)  
 🧾 [ORCID](https://orcid.org/0000-0002-9402-7487)  
 
 ---

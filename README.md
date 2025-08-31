@@ -50,7 +50,7 @@ I also have a strong background in **data science, big data, and cloud security*
   *Conference Paper*, May 2024.  
   DOI: [10.1145/3589334.3645557](https://doi.org/10.1145/3589334.3645557)  
 
-- **Asma, Z.**, Ehtesham Zahoor & Olivier Perrin.  
+- Zahoor, E., **Asma, Z.**, Perrin, O.
   *A Formal Approach for the Verification of AWS IAM Access Control Policies*.  
   *Service-Oriented and Cloud Computing (ESOCC 2017)*, pp. 59–74.  
   DOI: [10.1007/978-3-319-67262-5_5](http://dx.doi.org/10.1007/978-3-319-67262-5_5)  

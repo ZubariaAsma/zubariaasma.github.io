@@ -11,7 +11,7 @@ University of Crete | FORTH, Heraklion, Greece
 ---
 
 ## 👩‍💻 About Me
-I have completed my **Ph.D.** at the University of Crete and am currently finalizing the administrative formalities. I work as an **Early Stage Researcher** at FORTH.  
+I have completed my **Ph.D.** at the University of Crete and am currently finalizing the administrative formalities. I work as an **Early Stage Researcher** at Foundation for Research and Technology - Hellas (FORTH).  
 My research focuses on **provenance-aware data management for knowledge graphs**, including designing efficient data structures and query answering algorithms.  
 I also have a strong background in **data science, big data, and cloud security**.
 

@@ -68,7 +68,7 @@ I also have a strong background in **data science, big data, and cloud security*
 - **Asma, Z.**, Mrityunjoy Bhattacharya, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.  
   *Explaining Federated SPARQL Queries with How-Provenance.*  
   DKG COST Action Workshop on Federated Query for Distributed Knowledge Graphs, 2024.  
-
+  Link https://users.ics.forth.gr/~fgeo/files/DKGFed24.pdf
 ---
 
 ### 🔹 Journal Submission (Under Review)

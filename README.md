@@ -44,19 +44,40 @@ I also have a strong background in **data science, big data, and cloud security*
   Developed application features, testing, debugging, and documentation.  
 
 ---
-
 ## 📚 Publications
-- **Asma, Z.**, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.
-  *NPCS: Native Provenance Computation for SPARQL*.
-  *Conference Paper*, May 2024.  
-  DOI: [10.1145/3589334.3645557](https://doi.org/10.1145/3589334.3645557)  
 
-- Zahoor, E., **Asma, Z.**, Perrin, O.
-  *A Formal Approach for the Verification of AWS IAM Access Control Policies*.  
-  *Service-Oriented and Cloud Computing (ESOCC 2017)*, pp. 59–74.  
-  DOI: [10.1007/978-3-319-67262-5_5](http://dx.doi.org/10.1007/978-3-319-67262-5_5)  
-  ISBN: 978-3-319-67261-8 | 978-3-319-67262-5  
-  ISSN: 0302-9743 | 1611-3349  
+### 🔹 Refereed Conference Publications
+
+- **Asma, Z.**, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.  
+  *NPCS: Native Provenance Computation for SPARQL.*  
+  In **Proceedings of the ACM Web Conference 2024 (WWW ’24)**, pp. 2085–2093.  
+  Association for Computing Machinery (ACM), 2024.  
+  DOI: https://doi.org/10.1145/3589334.3645557  
+
+- Zahoor, E., **Asma, Z.**, Perrin, O.  
+  *A Formal Approach for the Verification of AWS IAM Access Control Policies.*  
+  In **Proceedings of the International Conference on Service-Oriented and Cloud Computing (ESOCC 2017)**,  
+  Lecture Notes in Computer Science, Vol. 10465, pp. 59–74.  
+  Springer, 2017.  
+  DOI: http://dx.doi.org/10.1007/978-3-319-67262-5_5  
+
+---
+
+### 🔹 Non-Refereed Workshop Publications
+
+- **Asma, Z.**, Mrityunjoy Bhattacharya, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.  
+  *Explaining Federated SPARQL Queries with How-Provenance.*  
+  DKG COST Action Workshop on Federated Query for Distributed Knowledge Graphs, 2024.  
+
+---
+
+### 🔹 Journal Submission (Under Review)
+
+- **Asma, Z.**, Daniel Hernández, Luis Galárraga, Giorgos Flouris, Irini Fundulaki, Katja Hose.  
+  *Native Provenance Computation for Federated and Non-Federated SPARQL Queries.*  
+  Submitted to *ACM Transactions on Graph Data and Knowledge (TGDK)*, 2025. Under review.
+
+
 
 ---
 
